@@ -1,0 +1,70 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e6e6e6;
+    color: #222;
+    line-height: 1;
+}
+header {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+header h1 {
+    font-size: 42px;
+}
+header h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 24px;
+}
+header img {
+    width: 60px;
+    vertical-align: middle;
+}
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    margin:15px;
+    font-size:18px;
+
+}
+main {
+    margin: 30px ;
+    padding:20px;
+}
+section {
+    margin-bottom: 30px;
+}
+
+section img{
+ width: 800px;
+}
+section img{
+ width: 800px;
+}
+.card {
+    background-color: white;
+    padding: 25px;
+    border: 2px solid #222;
+}
+
+h2 {
+    font-size: 28px;
+    color: #111;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
